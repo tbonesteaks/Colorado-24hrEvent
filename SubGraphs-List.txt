@@ -48,3 +48,4 @@ https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-celo
 https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-ethereum
 https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-optimism
 https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-polygon
+https://gateway.thegraph.com/api/key/subgraphs/id/GnwyhKp8uQkktC3vgMxWpg9f9qea75WQ6GXTxjW6BbZqd
